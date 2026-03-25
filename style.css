@@ -1,4 +1,18 @@
-/* Updated content of style.css file */
-body {
-    background-color: #f0f0f0;
+.container {
+  background-color: teal;
+  padding: 20px;
+  color: white;
+}
+
+.header {
+  font-size: 24px;
+  text-align: center;
+}
+
+.footer {
+  font-size: 12px;
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
 }
